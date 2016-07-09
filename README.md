@@ -14,4 +14,9 @@ of the new command.
 - third-party subcommands located anywhere in the `$PATH`
 - persistent options
 
+## To Do
+
+- add detailed examples of each feature...
+
+
 
