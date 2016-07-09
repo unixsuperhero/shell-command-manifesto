@@ -10,6 +10,7 @@ of the new command.
 
 ## Brief Overview
 
+- easily filter (aka search) output
 - subcommands
 - third-party subcommands located anywhere in the `$PATH`
 - persistent options
